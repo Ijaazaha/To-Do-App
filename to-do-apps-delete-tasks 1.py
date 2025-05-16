@@ -35,4 +35,9 @@ if __name__ == "__main__":
             print("Please provide a valid task number to delete.")
     else:
         print("Unknown command.")
+<<<<<<< HEAD
     else:
+=======
+        print("Unknown command.")
+
+>>>>>>> 00c04b844541ad13ca6c77b517e93bee36b05e9d
